@@ -1,0 +1,9 @@
+﻿  Food.cpp
+  Pizza.cpp
+D:\Reza\Game Projects\C++\Basic_2\Polymorphism\Pizza.cpp(7,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  PizzaNapoletana.cpp
+D:\Reza\Game Projects\C++\Basic_2\Polymorphism\PizzaNapoletana.cpp(7,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Source.cpp
+D:\Reza\Game Projects\C++\Basic_2\Polymorphism\Source.cpp(30,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Polymorphism.vcxproj -> D:\Reza\Game Projects\C++\Basic_2\Polymorphism\x64\Debug\Polymorphism.exe
